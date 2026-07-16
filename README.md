@@ -2,7 +2,9 @@
 
 基于 **Unity 6** 开发的第三人称生存射击游戏。玩家在封闭场景中迎战不断生成的三类敌人，通过走位和射击尽可能存活更久。
 
-> 🎬 [演示视频](https://github.com/user-attachments/assets/97b3fc22-3897-4467-895c-8fb9d501867a)
+## 演示视频
+
+https://github.com/user-attachments/assets/97b3fc22-3897-4467-895c-8fb9d501867a
 
 ---
 
