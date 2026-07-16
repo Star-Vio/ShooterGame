@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python3 -c \"import docx; print\\('python-docx available'\\)\")",
-      "Bash(python -c \"import docx; print\\('python-docx available'\\)\")",
-      "Bash(python *)"
-    ]
-  }
-}
