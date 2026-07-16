@@ -107,3 +107,9 @@ InitTestScene*.unity*
 
 # Claude Code
 .claude/
+
+# Visual Studio config
+.vsconfig
+
+# Unity upgrade log
+UpgradeLog.htm
